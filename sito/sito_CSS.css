@@ -1,0 +1,43 @@
+
+*.roboto-uniquifier{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  body{
+    margin: 0px;
+    font-family:"Roboto", sans-serif ;
+  }
+
+  .top-navbar{
+    background-color: #27272a;
+    padding: 4px;
+  }
+
+  .top-navbar a{
+    color: white;
+    margin-left: 15px;
+    font-size: 15px;
+    font-weight: 400;
+    text-decoration: none;
+  }
+
+  .bottom-navbar {
+    display: flex;
+    background-color:black;
+    padding: 10px;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+  }
+ .barre{
+  height: 24px;
+    width: 24px;
+ }
+  .logo{
+    height: 40px;
+    width: 100px;
+  }
